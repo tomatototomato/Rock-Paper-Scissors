@@ -1,0 +1,95 @@
+/* -----全体設定----- */
+body {
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+}
+
+/* -----ヘッダー----- */
+header h1 {
+    font: italic;
+    font-size: 40px;
+
+}
+
+/* -----パラメータ設定----- */
+.container {
+    display: flex;
+
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+#container_contentsTitle {
+    display: flex;
+
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#container_valuesTitle{
+    display: flex;
+
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+#container_title {
+
+}
+
+#container_value {
+    margin-top: 15px;
+    margin-left: 40px;
+}
+
+/* -----スクラッチ部分----- */
+/* --全体ＵＩ部分-- */
+#scratch_img {
+    margin-top: 20px;
+    margin-left: 20px;
+
+    position: relative;
+    width: 600px;
+}
+
+/* --数字表示部分-- */
+.table {
+    display: flex;
+
+    position: absolute;
+    left: 190px;
+    top: 910px;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    padding-top: 0px;
+    padding-left: 20px;
+    padding-right: 35px;
+}
+
+/* --ボタン部分-- */
+.function {
+    display: flex;
+
+}
+
+#button {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#result_title {
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
+#result_value {
+    margin-top: 10px;
+    margin-left: 20px;
+}
