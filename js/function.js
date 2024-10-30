@@ -23,8 +23,9 @@ function lot() {
   } 
     
   const num1 = document.getElementById('num1') 
+
   
   let _r = [] 
-  b.addEventListener('click', () => { 
+  num1.addEventListener('click', () => { 
     r.innerHTML = lot() 
   })
