@@ -104,3 +104,13 @@ header h1 {
     margin-top: 10px;
     margin-left: 50px;
 }
+
+/* --スクラッチ実装-- */
+/* #img2 {
+    position: absolute;
+    top: 865px;
+    left: 118px;
+    z-index: 2;
+    object-fit: cover;
+    width: 100%;
+} */
